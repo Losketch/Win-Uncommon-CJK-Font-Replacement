@@ -1,13 +1,12 @@
 <div align="center">
 
-# Windows 系统生僻汉字字体替换
-##  （Win-Uncommon-CJK-Font-Replacement）
+# Windows 系统汉字字体替换专用字体
+**（Win-Uncommon-CJK-Font-Replacement）**
+
 [![下载](https://img.shields.io/github/release/Losketch/Win-Uncommon-CJK-Font-Replacement?color=critical&label=最新版本&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMgMyAxOCAxOCI+PHBhdGggc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I0U2NjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2Utd2lkdGg6MiIgZD0iTTEwIDdhMiAyIDAgMDEyLTJoNmEyIDIgMCAwMTIgMnYxMGEyIDIgMCAwMS0yIDJoLTZhMiAyIDAgMDEtMi0yek03IDd2MTBNNCA4djgiLz48L3N2Zz4=)](https://github.com/Losketch/Win-Uncommon-CJK-Font-Replacement/releases/latest)
 [![总下载](https://img.shields.io/github/downloads/Losketch/Win-Uncommon-CJK-Font-Replacement/total.svg?color=critical&label=总下载量&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3LjQyIDcuNDIiPjxjaXJjbGUgY3g9IjMuNyIgY3k9IjMuNyIgcj0iMy43IiBmaWxsPSIjZDY2Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTQuMiAxLjZjLjguMiAxLjQuOSAxLjQgMS42LjQgMCAuOC41LjggMS4xUzYgNS40IDUuNiA1LjRIMmMtLjQgMC0uOC0uNS0uOC0xLjFzLjMtMS4xLjgtMS4xYzAtLjcuNi0xLjQgMS40LTEuNlYzLjJIMi42TDMuOCA0LjcgNC45IDMuMkg0LjJaIi8+PC9zdmc+)](https://github.com/Losketch/Win-Uncommon-CJK-Font-Replacement/releases/latest)
 [![星标](https://img.shields.io/github/stars/Losketch/Win-Uncommon-CJK-Font-Replacement?label=星标数&color=critical&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4IDgiPjxwYXRoIGZpbGw9IiNmZDAiIGQ9Im00IDAgMSAyLjYgMi43LjMtMi4xIDEuOC44IDNMNCA2LjQgMS42IDcuN2wuOC0zTC4zIDIuOSAzIDIuNnoiLz48L3N2Zz4=)](https://github.com/Losketch/Win-Uncommon-CJK-Font-Replacement)
 </div>
-
-# Windows 系统汉字字体替换专用字体
 
 ## 下载指南
 
